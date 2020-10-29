@@ -1,6 +1,6 @@
 # ImageViewingAppWithGestureDetection
 
-This app allows you to view images and move forward or backward in the gallery with the help of gesture detection.
+# This app allows you to view images and move forward or backward in the gallery with the help of gesture detection.
 
 # It uses onFlung event to detect the finger swipe direction.
 
